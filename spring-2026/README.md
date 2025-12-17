@@ -21,8 +21,8 @@
 | | Mar XX            |*Withdrawal deadline*                 |
 |09|Mar 23 & 25 & 27  | Reasoning with Generative AI - Analyzing World Development Indicators - Part 1    | |
 |09|Mar 30 & Apr 01 & 03 | Reasoning with Generative AI - Analyzing World Development Indicators - Part 2 | |
-|11|Apr 06 & 08 & 10  | AI & Ethics - [Ethical issues](modules/module-11.md)  | |  [Ethical framework](https://web.archive.org/web/20240513055008/https://honors.umaine.edu/wp-content/uploads/sites/184/2020/10/A-Framework-for-Thinking-Ethically.pdf)
-|12|Apr 13, 15, 17    | * AI & Ethics - [Ethical issues](modules/module-11.md) <br/> * Reviews                            | |
+|11|Apr 06 & 08 & 10  | AI & Ethics - [Ethical issues](modules/module_11.md)  | |  [Ethical framework](https://web.archive.org/web/20240513055008/https://honors.umaine.edu/wp-content/uploads/sites/184/2020/10/A-Framework-for-Thinking-Ethically.pdf)
+|12|Apr 13, 15, 17    | * AI & Ethics - [Ethical issues](modules/module_11.md) <br/> * Reviews                            | |
 |13|Apr 20, 22, 24    | Group project clinic               | |
 |14|Apr 27, 29,       | Group project clinic               | |
 |  | Fri, May 1       |*last day of classes*                 |
