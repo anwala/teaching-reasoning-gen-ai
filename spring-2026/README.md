@@ -3,49 +3,30 @@
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Lecture Slides](#coming-soon) (Google Drive folder - access required)
+* [Lecture Slides](https://drive.google.com/drive/u/0/folders/1DC9dz1s9f44pJW-2OeCaKTv0qhBOV_AH) (Google Drive folder - access required)
 
 ## Summary Schedule
 
 |Module |Lecture Dates|Topic|Tutorials/Homeworks (Date assigned -- Due Date)|Resources
 |---|---|---|---|---|
-|1|Jan 21 & 23     | Introductions & It's all data        | |
-|2|Jan 30 & Feb 1  | Network Elements                     | |
-|3|Feb 6 & 8       | Network Analysis toolkit             | |
-|4|Feb 13 & 15     | Small Worlds                         | |
-|5|Feb 20 & 22     | Node centrality (importance) metrics | |
-|6|Feb 27/29 & Mar 5 | Link Analysis                      | |
-|7|Mar 7           | Network Visualization                | |
-| | Mar 9 -- 17    |**NO CLASS - Spring Break**           | 
-|8|Mar 19 & 21     | Erdös-Renyi Random Graph Model       | |
-| | Mar 25         |*Withdrawal deadline*                 |
-|9|Mar 26 & 28     | Small world models                   | |
-|10|Apr 2 & 4      | Preferential attachment models       | |
-|11|Apr 9 & 11     | Communities                          | |
-|12|Apr 16 & 18    |                                      | |
-|13|Apr 23 & 25    |                                      | |
-|14|Apr 30 & May 2 |                                      | |
-|  | Fri, May 3    |*last day of classes*             |
-|15| Tue, May 14   |                                      | |
+|01|Jan 21 & 23     | * Introductions & It's all data <br/> * [People as data generators](modules/module_01.md)         | |
+|02|Jan 26 & 28 & 30| * [Data Visualization](https://docs.google.com/presentation/d/1pSywHD9i3aVNsWNxtcUfT1E2tP4mgcQv/) <br/> * Research projects ([StoryGraph](https://docs.google.com/presentation/d/1TLVD_Ql6n07Px-N0GzSYkkKl4iMbSeh6w5LYUBrmvpk/edit?usp=sharing), [BLOC & Agwagram](https://docs.google.com/presentation/d/1S7e0OGq7Rmkj84Gb4_ErixHDDaA92-iKsnuJe-zOObQ/edit?usp=sharing), [Local Memory](https://newsresearch.lab.wm.edu/tools/local-memory/)) | [HW1 Month DD -- Month DD](#coming-soon) | * [365 Dots in 2019: Quantifying Attention of News Sources](https://arxiv.org/pdf/2003.09989.pdf) <br/> * [2021-05-10: Chronicling the life-cycle of top new stories with StoryGraphBot](https://ws-dl.blogspot.com/2021/05/2021-05-10-chronicling-life-cycle-of.html) <br/> * [A language framework for modeling social media account behavior](https://doi.org/10.1140/epjds/s13688-023-00410-9)
+|03|Feb 02 & 04 & 06  | Reasoning with Computer Programs - Foundations     | |
+|04|Feb 09 & 11 & 13  | Reasoning with Computer Programs - Applications (Web Crawler, Wild Card Program)    | |
 
-<!--
-Jan 26, 28, 30  : data representation & visualizations
-Feb 02, 04, 06  : Reasoning with computer programs
-Feb 09, 11, 13  : Reasoning with GenAI & computer programs
+|05|Feb 16 & 18 & 20  | Reasoning with Generative AI - Foundations (Computing History, Introduction to Computer (vs. LLM) Programming)  | | * [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) <br/> * [Large language models, explained with a minimum of math and jargon](https://web.archive.org/web/20230801051014/https://www.understandingai.org/p/large-language-models-explained-with)
 
-Feb 16, 18, 20  : data processing - AI & programming
-Feb 23, 25, 27  : data processing - AI
+|06|Feb 23 & 25 & 27  | Reasoning with Generative AI - [Prompt Engineering](modules/module_06.md)   | * [NIST Trustworthy and Responsible AI
+NIST AI: Adversarial Machine Learning - A Taxonomy and Terminology of Attacks and Mitigations](https://doi.org/10.6028/NIST.AI.100-2e2023) |
+|07|Mar 02 & 04 & 06  | Reasoning with Generative AI - ["Hello, World!" and programming with LLMs](modules/module_07.md)    | |
+|  | Mar 07 -- 15     |**NO CLASS - Spring Break**         |  
+|08|Mar 16 & 18 & 20  | Reasoning with Generative AI - [Web Crawler, 3D Tic-Tac-Toe](modules/module-08/module_08.md), [Group project Introduction](modules/module-08/group_project.md)   | |
+| | Mar XX            |*Withdrawal deadline*                 |
+|09|Mar 23 & 25 & 27  | Reasoning with Generative AI - Analyzing World Development Indicators - Part 1    | |
+|09|Mar 30 & Apr 01 & 03 | Reasoning with Generative AI - Analyzing World Development Indicators - Part 2 | |
+|11|Apr 06 & 08 & 10  | AI & Ethics - [Ethical issues](modules/module-11.md)  | |  [Ethical framework](https://web.archive.org/web/20240513055008/https://honors.umaine.edu/wp-content/uploads/sites/184/2020/10/A-Framework-for-Thinking-Ethically.pdf)
 
-Mar 02, 04, 06  : data processing - AI
-Mar 07 - 15     : Spring Break
-Mar 16, 18, 20  : data processing - AI
-Mar 23, 25, 27  : data processing - AI
-Mar 30,Apr 01-03: data processing - AI
-
-Apr 06, 08, 10  : data ethics
-Apr 13, 15, 17  :
-Apr 20, 22, 24  :
-Apr 27, 29,
-
-May 01
--->
+|12|Apr 13, 15, 17    | * AI & Ethics - [Ethical issues](modules/module-11.md) <br/> * Reviews                            | |
+|13|Apr 20, 22, 24    | Group project clinic               | |
+|14|Apr 27, 29,       | Group project clinic               | |
+|  | Fri, May 1       |*last day of classes*                 |
