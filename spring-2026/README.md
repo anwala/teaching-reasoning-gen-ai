@@ -13,9 +13,7 @@
 |02|Jan 26 & 28 & 30| * [Data Visualization](https://docs.google.com/presentation/d/1pSywHD9i3aVNsWNxtcUfT1E2tP4mgcQv/) <br/> * Research projects ([StoryGraph](https://docs.google.com/presentation/d/1TLVD_Ql6n07Px-N0GzSYkkKl4iMbSeh6w5LYUBrmvpk/edit?usp=sharing), [BLOC & Agwagram](https://docs.google.com/presentation/d/1S7e0OGq7Rmkj84Gb4_ErixHDDaA92-iKsnuJe-zOObQ/edit?usp=sharing), [Local Memory](https://newsresearch.lab.wm.edu/tools/local-memory/)) | [HW1 Month DD -- Month DD](#coming-soon) | * [365 Dots in 2019: Quantifying Attention of News Sources](https://arxiv.org/pdf/2003.09989.pdf) <br/> * [2021-05-10: Chronicling the life-cycle of top new stories with StoryGraphBot](https://ws-dl.blogspot.com/2021/05/2021-05-10-chronicling-life-cycle-of.html) <br/> * [A language framework for modeling social media account behavior](https://doi.org/10.1140/epjds/s13688-023-00410-9)
 |03|Feb 02 & 04 & 06  | Reasoning with Computer Programs - Foundations     | |
 |04|Feb 09 & 11 & 13  | Reasoning with Computer Programs - Applications (Web Crawler, Wild Card Program)    | |
-
 |05|Feb 16 & 18 & 20  | Reasoning with Generative AI - Foundations (Computing History, Introduction to Computer (vs. LLM) Programming)  | | * [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs) <br/> * [Large language models, explained with a minimum of math and jargon](https://web.archive.org/web/20230801051014/https://www.understandingai.org/p/large-language-models-explained-with)
-
 |06|Feb 23 & 25 & 27  | Reasoning with Generative AI - [Prompt Engineering](modules/module_06.md)   | * [NIST Trustworthy and Responsible AI
 NIST AI: Adversarial Machine Learning - A Taxonomy and Terminology of Attacks and Mitigations](https://doi.org/10.6028/NIST.AI.100-2e2023) |
 |07|Mar 02 & 04 & 06  | Reasoning with Generative AI - ["Hello, World!" and programming with LLMs](modules/module_07.md)    | |
