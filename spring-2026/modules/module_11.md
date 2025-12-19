@@ -50,11 +50,11 @@ Here will explore these ethical issues and attempt to find creative solutions fo
     * [The Environmental Impact of ChatGPT: A Call for Sustainable Practices In AI Development](https://earth.org/environmental-impact-chatgpt/)
 
 ### In-class group task
-* Apply the ethical framework to create policies governing 
-** A company's deployment of AI in the workplace
-*** What is the overall goal?
-*** What are the priorities? In other words, how much weights should be given to maximizing profit, staff and, society well being?
-** the deployment of AI in warfare
-** What is the overall goal?
-** What does accountability look like?
-** A tech company's responsible deployment of GenAI video technologies like [SORA](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)).
+* Apply the [ethical framework](https://web.archive.org/web/20240513055008/https://honors.umaine.edu/wp-content/uploads/sites/184/2020/10/A-Framework-for-Thinking-Ethically.pdf) to create policies governing 
+    * A company's deployment of AI in the workplace
+        * What is the overall goal?
+        * What are the priorities? In other words, how much weights should be given to maximizing profit, staff and, society well being?
+    * the deployment of AI in warfare
+        * What is the overall goal?
+        * What does accountability look like?
+        * A tech company's responsible deployment of GenAI video technologies like [SORA](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)).
