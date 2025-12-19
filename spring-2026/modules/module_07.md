@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Whatever your career aspiration, programming is a useful fun way to increase your productivity. It used to be something just for the computer nerds/scientists but things have changed; especially since the release of Generative AI tools like ChatGPT which can generate code. Journalists, business analysts, researchers, etc., can now boost their productivity and convert ideas into software prototypes with by programming aided of GenAI.
+Whatever your career aspiration, programming is a useful fun way to increase your productivity. It used to be something just for the computer nerds/scientists but things have changed; especially since the release of Generative AI tools like ChatGPT which can generate code. Journalists, business analysts, researchers, etc., can now boost their productivity and convert ideas into software prototypes with programming aided of GenAI.
 
 Here, we will learn how to develop applications in Python using Generative AI technologies guided by the our Problem Solving Philosophy (PSP):
 * Decomposing non-trivial problems into actionable and testable subproblems

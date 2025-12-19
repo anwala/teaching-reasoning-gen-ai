@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Prompts are how we interact with LLMs. [Prompt engineering is the process of creating effective prompts that guide a model toward desired outputs without expanding its knowledge base.](https://www.ibm.com/think/topics/rag-vs-fine-tuning-vs-prompt-engineering#7281537). The quality of the response of an LLM is affected by the quality of the prompt. Which makes learning about prompt engineering crucial.
+Prompts are how we interact with LLMs. [Prompt engineering is the process of creating effective prompts that guide a model toward desired outputs without expanding its knowledge base](https://www.ibm.com/think/topics/rag-vs-fine-tuning-vs-prompt-engineering#7281537). The quality of the response of an LLM is affected by the quality of the prompt. Which makes learning about prompt engineering crucial.
 
 Here we will learn the fundamentals of prompt engineering. This includes the components of a prompt, how to design effective prompt, and the types of prompt.
 

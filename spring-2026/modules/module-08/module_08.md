@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Recall in Module 4 we were [introduced](https://docs.google.com/presentation/d/1L0mk2dnBPvD_wZlaj3fCbPwaIxmboC2sV9Z0hQqkc4M/edit?slide=id.g3a44747e5f3_0_0#slide=id.g3a44747e5f3_0_0) to the [Web Crawler](https://en.wikipedia.org/wiki/Web_crawler) (or robot): a program that systematically searches the web and indexes the content. We also built a [simple Web Crawler](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anwala/teaching-reasoning-gen-ai/blob/main/spring-2026/modules/module-04/data_102_02_s26_mod_04_python_crawler.ipynb).
+Recall in Module 4 we were [introduced](https://docs.google.com/presentation/d/1L0mk2dnBPvD_wZlaj3fCbPwaIxmboC2sV9Z0hQqkc4M/edit?slide=id.g3a44747e5f3_0_0#slide=id.g3a44747e5f3_0_0) to the [Web Crawler](https://en.wikipedia.org/wiki/Web_crawler) (or robot): a program that systematically searches the web and indexes the content. We also built a [simple Web Crawler](https://colab.research.google.com/github/anwala/teaching-reasoning-gen-ai/blob/main/spring-2026/modules/module-04/data_102_02_s26_mod_04_python_crawler.ipynb).
 
-Here, we will revisit the problem of building a crawler, but this time with the aid of Generative AI and assess and reflect on the pros/cons of the development process with and without the use of GenAI.
+Here, we will revisit the problem of building a crawler, but this time with the aid of Generative AI. Next we will assess and reflect on the pros/cons of the development process with and without the use of GenAI.
 
 ## (In-class individual activity): Building a web crawler with GenAI
 
