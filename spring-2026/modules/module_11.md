@@ -57,4 +57,4 @@ Here will explore these ethical issues and attempt to find creative solutions fo
     * the deployment of AI in warfare
         * What is the overall goal?
         * What does accountability look like?
-        * A tech company's responsible deployment of GenAI video technologies like [SORA](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)).
+    * responsible deployment of GenAI video technologies like [SORA](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)).
