@@ -50,7 +50,7 @@ Participation is very important and contributes additional dimensions to discuss
 
 Throughout the semester you will have the opportunity to accumulate a maximum of **20** participation points (2 points maximum per week) for the following in-class activities: 
 1. Participating in in-class individual task
-2. Participating in in-class group task/debate
+2. Participating in in-class group task
 
 **No Midterm exam**
 
