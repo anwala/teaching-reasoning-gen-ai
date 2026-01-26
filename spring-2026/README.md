@@ -8,7 +8,7 @@
 ## Summary Schedule
 
 |Module |Lecture Dates|Topic|Resources
-|---|---|---|---|---|
+|---|---|---|---|
 |01|Jan 21 & 23     | * [Introductions & It's all data](https://docs.google.com/presentation/d/1FDQ-6N7NfIpcdNT-HR3QZJQp4dVLS_lXTlpEWQyiIg8/edit?slide=id.p#slide=id.p) <br/> * [People as data generators](modules/module_01.md)         |
 |02|Jan 26 & 28 & 30| * [Data Visualization](https://docs.google.com/presentation/d/1pSywHD9i3aVNsWNxtcUfT1E2tP4mgcQv/) <br/> * Visualizations in Research projects ([StoryGraph](https://docs.google.com/presentation/d/1TLVD_Ql6n07Px-N0GzSYkkKl4iMbSeh6w5LYUBrmvpk/edit?usp=sharing), [BLOC & Agwagram](https://docs.google.com/presentation/d/1S7e0OGq7Rmkj84Gb4_ErixHDDaA92-iKsnuJe-zOObQ/edit?usp=sharing), [Local Memory](https://newsresearch.lab.wm.edu/tools/local-memory/)) | * [365 Dots in 2019: Quantifying Attention of News Sources](https://arxiv.org/pdf/2003.09989.pdf) <br/> * [2021-05-10: Chronicling the life-cycle of top new stories with StoryGraphBot](https://ws-dl.blogspot.com/2021/05/2021-05-10-chronicling-life-cycle-of.html) <br/> * [A language framework for modeling social media account behavior](https://doi.org/10.1140/epjds/s13688-023-00410-9)
 |03|Feb 02 & 04 & 06  | Reasoning with Computer Programs - [Foundations](https://docs.google.com/presentation/d/1B-4pImXnifQDkzbNl9ZguxdkPVmtIoxH/edit?slide=id.p1#slide=id.p1)     |
