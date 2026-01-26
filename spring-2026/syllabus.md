@@ -48,7 +48,7 @@ I will post all assignments on our [DATA 101-02 course website](https://github.c
 
 Participation is very important and contributes additional dimensions to discussions. You are expected to complete all assigned readings before class and be ready to discuss with your peers, and apply your knowledge during class learning activities. 
 
-Throughout the semester you will have the opportunity to accumulate a maximum of **20** participation points (2 points maximum per week) for the following in-class activities: 
+Throughout the semester you will have the opportunity to accumulate a maximum of **20** participation points for the following in-class activities: 
 1. Participating in in-class individual task
 2. Participating in in-class group task
 
