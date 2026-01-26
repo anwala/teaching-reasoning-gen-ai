@@ -73,8 +73,7 @@ Throughout the semester you will have the opportunity to accumulate a maximum of
 
 [W&M Spring 2026 academic schedule](https://www.wm.edu/offices/registrar/catalogs-calendars-exams/ugcalendar/25-26/#spring)
 
-Calendar:
-Coming soon
+See [course calendar](https://github.com/anwala/teaching-reasoning-gen-ai/tree/main/spring-2026)
 
 ### Add/drop and withdrawal deadlines:
 * Add/drop deadline: January 30, 2026
@@ -86,9 +85,9 @@ This course was originally developed by [Dr. Ron Smith](https://www.wm.edu/as/da
 
 ## Course Policies
 
-### Piazza
+### Blackboard
 
-Each student must check the class [Piazza (DATA 101-02)](https://piazza.com/class/mhnwdp86nr910/) daily. You should use our class Piazza forum to ask and answer general course-related questions. I will use Piazza to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
+I will use Blackboard to notify you about important updates (assignment deadline changes, office hours cancellations, etc.). Check Blackboard daily for these updates and use it to ask course-related questions.
 
 ### Participation
 
