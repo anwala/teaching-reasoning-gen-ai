@@ -1,4 +1,4 @@
-# "Hello, World!" and Programming with LLMs
+# Programming with LLMs
 
 ## Introduction
 
@@ -9,15 +9,18 @@ Here, we will learn how to develop applications in Python using Generative AI te
 * Developing algorithms to solve subproblems
 * Implementing and evaluating Python-based solutions and iterating.
 
-## ["Hello, World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+## [Random Surfer on Wikipedia](https://en.wikipedia.org/wiki/Random_surfing_model)
 
-Design separate prompts for each of the following tasks:
-1. To learn about the `"Hello, World!"` program.
-2. Write the `"Hello, World!"` program in Python.
-3. Modify code generated in 2. to say `"Hello, <Your name here>!"` e.g., `"Hello, Alex!"`
-4. Modify code generated in 3. to ask for a user's name, and then to respond with `"Hello, <User-name provided as input here>!"`
+**Goal:** Develop re-usable code for visiting Wikipedia pages randomly. Given a start Wikipedia page (at distance 0), e.g., [College of William and Mary](https://en.wikipedia.org/wiki/College_of_William_and_Mary)
+and `max_distance`, the program should visit a random page (at distance 1) that the start page links to, and visit a random page (at distance 2) that the random page links to. This process should repeat `max_distance` times, at which point the program should return a random Wikipedia page. The program should plot a path illustrating the surfing.
 
-## Summary statistics program
+Let's apply PSP to solve this problem:
+1. What are the subproblem?
+2. Design prompts to solve each subproblem.
+3. Solve whole problem by stitching solutions of subproblems
+4. Evaluate and iterate.
+
+## Summary statistics program (In-class group task)
 **Goal:** Develop re-usable code for calculating the `average` (and next, `minimum` and next `maximum`) of a list of user-input numbers.
 
 Apply PSP to solve this problem:
@@ -29,27 +32,10 @@ Apply PSP to solve this problem:
 Let's reflect.
 
 ### Tips:
-* Be curious and adventurous. Ask question and test things out and learn why/how the code workscode)
+* Be curious and adventurous. Ask question and test things out and learn why/how the code works
 * Run code
 * Errors are expected
 * Try understanding any GenAI-produced code.
-* Patience, 
+* Patience
 * Evaluate
-* Keep It Simple (KIS!)
-
-## Your Program (In-class group task)
-
-Identify a specific problem in a domain you care about (e.g., Health, Education, Entertainment, Business). Apply PSP to design prompts to solve the problem.
-
-Present your findings (starting with problem domain, problem, and LLM) and answer the following questions:
-1. Are you satisfied with the solution? Why?
-2. What are the subproblem?
-3. How did you arrive at your final prompt (show the evolution of your prompt)
-4. How did you evaluate the response of the LLM
-5. Provide additional feedback
-6. Goto Wild Card Program
-
-## Wild Card Program
-
-Let's vote for a problem we will solve collectively in class next time we meet.
-
+* Keep It Simple (KIS!): 
