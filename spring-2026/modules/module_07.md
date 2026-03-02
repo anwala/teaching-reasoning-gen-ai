@@ -11,7 +11,7 @@ Here, we will learn how to develop applications in Python using Generative AI te
 
 ## [Random Surfer on Wikipedia](https://en.wikipedia.org/wiki/Random_surfing_model)
 
-**Goal:** Develop re-usable code for visiting Wikipedia pages randomly. Given a start Wikipedia page (at distance 0), e.g., [College of William and Mary](https://en.wikipedia.org/wiki/College_of_William_and_Mary)
+**Goal:** Using the [Python wikipedia tool](https://pypi.org/project/wikipedia/), develop re-usable code for visiting Wikipedia pages randomly. Given a start Wikipedia page (at distance 0), e.g., [College of William and Mary](https://en.wikipedia.org/wiki/College_of_William_and_Mary)
 and `max_distance`, the program should visit a random page (at distance 1) that the start page links to, and visit a random page (at distance 2) that the random page links to. This process should repeat `max_distance` times, at which point the program should return a random Wikipedia page. The program should plot a path illustrating the surfing.
 
 Let's apply PSP to solve this problem:
