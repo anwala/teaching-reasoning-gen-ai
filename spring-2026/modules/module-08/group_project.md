@@ -15,7 +15,7 @@ You will work in small groups (likely, 2 people) on a final project consisting o
 
 Negotiate with me to finalize your decision of for both points by March 30, 2026. The earlier the better.
 
-* produce a short report (2-3 pages) OR in-class presentation explaining the data, your analysis and results, potential shortfalls or uncertainties, and how AI was used to aid in your work
+* in-class presentation explaining the data, your analysis and results, potential shortfalls or uncertainties, and how AI was used to aid in your work
 * a summary of specific contributions made to the project by each member of the group
 
 With regard to the last point, it is not guaranteed that each member of a group will receive the same grade. If you feel that a group member is not pulling their weight you should:
@@ -31,16 +31,16 @@ Individual points (8 points):
 * Completeness of task
 * Accuracy
 
-* produce a short report (2-3 pages) OR in-class presentation explaining the data, your analysis and results, potential shortfalls or uncertainties, and how AI was used to aid in your work
+* in-class presentation explaining the data, your analysis and results, potential shortfalls or uncertainties, and how AI was used to aid in your work
 * a summary of specific contributions made to the project by each member of the group
 
 Group points (12 points - 2 per bullet):
-* Presentation/Report introduces the project data source and research questions
-* Presentation/Report presents the analyses and and how AI was used to aid in your work
-* Presentation/Report includes the results
-* Presentation/Report includes potential shortfalls or uncertainties or future work
+* Presentation introduces the project data source and research questions
+* Presentation presents the analyses and and how AI was used to aid in your work
+* Presentation includes the results
+* Presentation includes potential shortfalls or uncertainties or future work
 * Correctness/completeness research questions
-* Presentation/Report is well-organized, cites sources, utilizes illustrations (e.g., images) to aid in explanations, and presenter(s) effectively communicated their solution to class
+* Presentation is well-organized, cites sources, utilizes illustrations (e.g., images) to aid in explanations, and presenter(s) effectively communicated their solution to class
 
 ### Checkpoints
 
