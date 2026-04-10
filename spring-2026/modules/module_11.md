@@ -30,7 +30,6 @@ Here will explore these ethical issues and attempt to find creative solutions fo
 * Social Manipulation
     * [Top 10: Deepfakes - InfoSecurity Magazin](https://www.infosecurity-magazine.com/magazine-features/top-10-deepfakes)
     * [DEEPFAKE of President Volodymyr Zelensky (March 2022)](https://x.com/MikaelThalen/status/1504123674516885507)
-    * [Finance worker pays out $25 million after video call with deepfake 'chief financial officer'](https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk)
     * [Celebrity DEEPFAKES - Part 1](https://www.youtube.com/watch?v=CDMVaQOvtxU)
     * [Celebrity DEEPFAKES - Part 2](https://www.youtube.com/watch?v=KMR_8WNwoGc)
     * [Deepfake Audio Frames Principal](https://www.youtube.com/watch?v=wJZmoGJRntA&t=3368s)
