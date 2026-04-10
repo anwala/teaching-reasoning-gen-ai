@@ -34,7 +34,6 @@ Here will explore these ethical issues and attempt to find creative solutions fo
     * [Celebrity DEEPFAKES - Part 1](https://www.youtube.com/watch?v=CDMVaQOvtxU)
     * [Celebrity DEEPFAKES - Part 2](https://www.youtube.com/watch?v=KMR_8WNwoGc)
     * [Deepfake Audio Frames Principal](https://www.youtube.com/watch?v=wJZmoGJRntA&t=3368s)
-    * [DEEPFAKE of Obama Impersonation (April 2018)](https://www.youtube.com/watch?v=cQ54GDm1eL0)
 
 * AI in Education
     * [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
