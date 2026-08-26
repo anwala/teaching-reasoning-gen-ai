@@ -1,4 +1,5 @@
-# W&M DATA 101-02 - Reasoning with Generative AI
+# W&M DATA 101 - Reasoning with Generative AI
 Lecture materials for Reasoning with Generative AI
 
-[Spring 2026](spring-2026/README.md)
+* [Fall 2026](fall-2026/README.md)
+* [Spring 2026](spring-2026/README.md)
