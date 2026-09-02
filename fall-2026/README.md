@@ -29,4 +29,6 @@
 |  | Nov 25 -- Nov 29 |**NO CLASS - Thanksgiving Break**      |
 |14| Dec 01 & 03      | Group project clinic               |
 |  | Fri, Dec 04      |*last day of classes*                 |
+|  | Dec 11 (2 -- 5pm ET)  | [Final exam](https://www.wm.edu/offices/registrar/catalogs-calendars-exams/examschedules/fall26exam/#class)               |
+
 
