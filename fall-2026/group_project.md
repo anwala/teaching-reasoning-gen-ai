@@ -1,6 +1,6 @@
-# Reasoning with Generative AI (DATA 101-02) Group Project Description (20 points)
+# Reasoning with Generative AI (DATA 101-01) Group Project Description (20 points)
 
-**Due:** May 11, 2026, 12pm
+**Due:** December 11, 2026, 2pm
 
 #### Introduction
 
@@ -13,7 +13,7 @@ You will work in small groups (likely, 2 people) on a final project consisting o
 * identifying a data source
 * asking 1-2 relevant and meaningful research questions about the data
 
-Negotiate with me to finalize your decision of for both points by March 30, 2026. The earlier the better.
+Negotiate with me to finalize your decision of for both points by October 22, 2026. The earlier the better.
 
 * in-class presentation explaining the data, your analysis and results, potential shortfalls or uncertainties, and how AI was used to aid in your work
 * a summary of specific contributions made to the project by each member of the group
@@ -23,7 +23,7 @@ With regard to the last point, it is not guaranteed that each member of a group 
 * attempt to address the issue with the group member in a polite and professional manner
 * if this is not successful, bring the matter to my attention. If need be, I may adjust the group structure or work with you to adjust the expectations accordingly.
 
-Additional details and specifications will be discussed in class and posted. Your final report will be due May, 11, 2026, 12 pm.
+Additional details and specifications will be discussed in class and posted. Your final report will be due Dec, 11, 2026, 2 pm.
 
 #### Grading rubric
 
@@ -44,4 +44,4 @@ Group points (12 points - 2 per bullet):
 
 ### Checkpoints
 
-April 20 -- 29, 2026 have been reserved for Group project clinic. I'll encourage you attend for status updates and help.
+November 19--December 3, 2026 have been reserved for Group project clinic. I'll encourage you attend for status updates and help.
