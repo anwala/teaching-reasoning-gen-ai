@@ -21,15 +21,16 @@ Let's apply PSP to solve this problem:
 4. Evaluate and iterate.
 
 ## Summary statistics program (In-class individual task)
-**Goal:** Develop re-usable code for a company. Create a program that reads an employee's first name and salary and store them into two separate lists. The number of employees is unknown. To exit the program the user must input "done". Before exiting find the average salary and for each employee print if their salary is above or below average salary.
+**Goal:** Develop re-usable code for a company. Create a program that reads an employee's first name and salary and stores them into two separate lists. The number of employees is unknown. To exit the program the user must input "done." Before exiting, find the average salary and for each employee print if their salary is above or below the average salary.
 
 For example:
 ```
 Welcome to Salary Audit:
 Enter employee first names followed by their salary: Mary 2343, John 2134, George 5342, Nicole 5342, done.
 
-Total Employees: 2
-Average Salary is: $3790.25
+Total employees: 4
+Total employees with salary below average: 2
+Average salary is: $3790.25
 
 Auditing:
 
