@@ -17,7 +17,6 @@ Here will explore these ethical issues and attempt to find creative solutions fo
 * Job displacement:
     * [Amazon's Robot Takeover](https://www.youtube.com/watch?v=Sdwd_CXBNuo)
     * [AI is already taking white-collar jobs. Economists warn there’s ‘much more in the tank’](https://www.cnbc.com/2025/10/22/ai-taking-white-collar-jobs-economists-warn-much-more-in-the-tank.html)
-    * [New Research May Calm Some of the AI Job-loss Clamor–For Now](https://ide.mit.edu/insights/neil-thompson-research-may-calm-some-of-the-ai-job-loss-clamor/)
     * [Which U.S. Workers Are More Exposed to AI on Their Jobs?](https://www.pewresearch.org/social-trends/2023/07/26/which-u-s-workers-are-more-exposed-to-ai-on-their-jobs/)
     * [ Will your job survive AI? Office building at night.](https://news.harvard.edu/gazette/story/2025/07/will-your-job-survive-ai/)
 
