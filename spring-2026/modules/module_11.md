@@ -20,6 +20,13 @@ Here will explore these ethical issues and attempt to find creative solutions fo
     * [Which U.S. Workers Are More Exposed to AI on Their Jobs?](https://www.pewresearch.org/social-trends/2023/07/26/which-u-s-workers-are-more-exposed-to-ai-on-their-jobs/)
     * [ Will your job survive AI? Office building at night.](https://news.harvard.edu/gazette/story/2025/07/will-your-job-survive-ai/)
 
+* AI in Education
+    * [The generative AI learning penalty in secondary school](https://cepr.org/voxeu/columns/generative-ai-learning-penalty-secondary-school)
+    * [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
+        * [ChatGPT May Be Eroding Critical Thinking Skills, According to a New MIT Study](https://time.com/7295195/ai-chatgpt-google-learning-school/)
+        * [Your Brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
+        * [AI can do your homework. Now what?](https://www.youtube.com/watch?v=bEJ0_TVXh-I)
+
 * AI in Criminal Justice and in Warfare:
     * [Wrongfully Accused by an Algorithm](https://www.listennotes.com/podcasts/the-daily/wrongfully-accused-by-an-rPoU0HXfNME/)
     * [The Ethics of Automated Warfare and Artificial Intelligence](https://www.cigionline.org/the-ethics-of-automated-warfare-and-artificial-intelligence/)
@@ -32,12 +39,6 @@ Here will explore these ethical issues and attempt to find creative solutions fo
     * [Celebrity DEEPFAKES - Part 1](https://www.youtube.com/watch?v=CDMVaQOvtxU)
     * [Celebrity DEEPFAKES - Part 2](https://www.youtube.com/watch?v=KMR_8WNwoGc)
     * [Deepfake Audio Frames Principal](https://www.youtube.com/watch?v=wJZmoGJRntA&t=3368s)
-
-* AI in Education
-    * [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
-        * [ChatGPT May Be Eroding Critical Thinking Skills, According to a New MIT Study](https://time.com/7295195/ai-chatgpt-google-learning-school/)
-        * [Your Brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
-        * [AI can do your homework. Now what?](https://www.youtube.com/watch?v=bEJ0_TVXh-I)
 
 * AI and the Environment
     * [The growing environmental impact of AI data centers’ energy demands](https://www.youtube.com/watch?v=-sNKfRq1oKg)
